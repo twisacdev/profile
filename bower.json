@@ -1,0 +1,32 @@
+{
+  "name": "oscend",
+  "version": "0.0.0",
+  "authors": [
+    "Dmitry <alximicus13@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_vendor",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4",
+    "owl.carousel": "owl-carousel2#~2.0.0-beta.3",
+    "waypoints": "~4.0.0",
+    "slider-pro": "1.2.0",
+    "slick-carousel": "~1.5.8",
+    "modernizr": "~3.2.0",
+    "jquery.mb.ytplayer": "~2.9.8",
+    "wow": "~1.1.2",
+    "animate.css": "~3.5.0",
+    "smooth-scroll": "~1.0.1",
+    "owl-carousel": "~1.3.2",
+    "fancybox": "~2.1.5"
+  }
+}
